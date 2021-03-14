@@ -6,9 +6,9 @@ Employee Database: A Mystery in Two Parts
 
 ## Background
 
-It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
+The task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 
-In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
+A new database was created to perform the research by designing the tables to hold data in the CSVs, importing the CSVs into a SQL database, and answer questions about the data by writing specific SQL queries. In other words, the following were performed. 
 
 1. Data Modeling
 
@@ -20,18 +20,18 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 #### Data Modeling
 
-Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+Inspect the CSVs and sketch out an entity relationship diagram (ERD) of the tables utilizing [http://www.quickdatabasediagrams.com]
 ![model](EmployeeSQL/images/database_diagram.png)
 
 #### Data Engineering
 
-* Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
+* Table schema were created for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
-* Import each CSV file into the corresponding SQL table.
+* Imported each CSV file into the corresponding SQL table.
 
 #### Data Analysis
 
-Once you have a complete database, do the following:
+Once the database was completed, the following queries were written for the analyis:
 
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
