@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [data-analytics-bootcamp-2019/projects/sql-challenge](https://github.com/john-stromberg/data-analytics-bootcamp-2019/tree/main/projects/sql-challenge).
+> This repository is retained as a historical snapshot.
+
+---
+
 # sql-challenge
 
 Employee Database: A Mystery in Two Parts
